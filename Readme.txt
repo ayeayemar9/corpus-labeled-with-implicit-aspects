@@ -2,7 +2,7 @@ Corpus labeled with implicit aspects
 
 This dataset labeled with implicit aspects was automatically constructed by the Weakly Supervised Learning Approach proposed in the following paper(s).
 
-Aye Aye Mar, Kiyoaki Shirai and Natthawut Kertkeidkachorn. Weakly Supervised Learning Approach for Implicit Aspect Extraction. Journal of Information, MDPI, 2023.
+Aye Aye Mar, Kiyoaki Shirai, Natthawut Kertkeidkachorn. 2023. “Weakly Supervised Learning Approach for Implicit Aspect Extraction” Information 14, no. 11: 612. https://doi.org/10.3390/info14110612
 
 Any work that uses the dataset should cite the above-mentioned paper(s).
 
